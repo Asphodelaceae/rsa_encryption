@@ -1,7 +1,3 @@
-Luca Schram
-lschram
-Assignment 5
-
 Compilation Instructions:
 
 Compile with the words "make" in the command line when all necessary files shown below
